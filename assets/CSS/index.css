@@ -115,6 +115,7 @@ body {
 .modal-content .card {
     transform: scale(1.5);
     transform-origin: center;
-    transition: transform 1s ease;
     cursor: default;
+
+    transition: transform 0.3s linear;
 }
